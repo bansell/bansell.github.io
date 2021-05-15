@@ -3,7 +3,7 @@ navbar:
   title: "Brendan Robert E. Ansell"
   left:
     - text: "Home"
-      href: index.html
+      href: _site/index.html
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<tst@email.com>
