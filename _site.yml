@@ -1,6 +1,6 @@
 name: "tst-website"
 navbar:
-  title: "Brendan Ansell"
+  title: "Brendan Robert E. Ansell"
   left:
     - text: "Home"
       href: index.html
