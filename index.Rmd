@@ -6,19 +6,39 @@ output:
 ---
 
 
+
+<br/>
+<br/>
+
 ## _Research_  
+<br/>
+
 I am a biologist using genetic data to study diseases of the brain and the retina.
+<br/>
+<br/>
+<br/>
 
 ## _Teaching_
+<br/>
+
 I also teach workshops in R for data analysis, automation and visualization.
 
 <!-- https://education.rstudio.com/trainers/people/brendan+ansell/  -->
+<br/>
 
 ## _Publications_
+<br/>
 
 I wrote this [book](https://bookdown.org/ansellbr/WEHI_tidyR_course_book/) to help introduce people to R.  
   
-  
+<br/>
+
 You can find a list of my scientific publications [here](https://scholar.google.com.au/citations?user=XMmsMV4AAAAJ&hl=en).
 
+<br/>
+<br/>
+
 ## _Side projects_
+
+<br/>
+<br/>
