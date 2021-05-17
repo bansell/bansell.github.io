@@ -1,4 +1,5 @@
 name: "tst-website"
+output_dir: "_site"
 navbar:
   title: "Brendan Robert E. Ansell"
   left:
