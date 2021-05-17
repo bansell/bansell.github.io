@@ -7,7 +7,7 @@ output:
 
 
 ## _Research_  
-I am a biologist using big-data to study diseases of the brain and the retina.
+I am a biologist using genetic data to study diseases of the brain and the retina.
 
 ## _Teaching_
 I also teach workshops in R for data analysis, automation and visualization.
