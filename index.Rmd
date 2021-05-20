@@ -1,6 +1,7 @@
 ---
 title: "Brendan Robert E. Ansell"
-image: "IMG_5093.png"
+#image: "IMG_5093.png"
+image: "Brendan_Ansell_photo_sqr.png"
 links:
   # - label: LinkedIn
   #   url: "https://linkedin.com/"
