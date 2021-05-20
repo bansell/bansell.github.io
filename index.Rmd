@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "About"
 output:
   html_document:
     df_print: paged
@@ -8,37 +8,35 @@ output:
 
 
 <br/>
-<br/>
 
-## _Research_  
-<br/>
+I am a computational biologist using genetic data to study diseases of the brain and the retina. 
 
-I am a biologist using genetic data to study diseases of the brain and the retina.
+<!-- I am passionate about reproducible research, and democratization of data. -->
 <br/>
 <br/>
 <br/>
 
-## _Teaching_
-<br/>
+<!-- ## Teaching -->
+<!-- <br/> -->
 
-I also teach workshops in R for data analysis, automation and visualization.
+<!-- I also teach workshops in R for data analysis, automation and visualization. -->
 
-<!-- https://education.rstudio.com/trainers/people/brendan+ansell/  -->
-<br/>
+<!-- <!-- https://education.rstudio.com/trainers/people/brendan+ansell/  --> -->
+<!-- <br/> -->
 
-## _Publications_
-<br/>
+<!-- ## Publications -->
+<!-- <br/> -->
 
-I wrote this [book](https://bookdown.org/ansellbr/WEHI_tidyR_course_book/) to help introduce people to R.  
-  
-<br/>
+<!-- I wrote this [book](https://bookdown.org/ansellbr/WEHI_tidyR_course_book/) to help introduce people to R.   -->
 
-You can find a list of my scientific publications [here](https://scholar.google.com.au/citations?user=XMmsMV4AAAAJ&hl=en).
+<!-- <br/> -->
 
-<br/>
-<br/>
+<!-- You can find a list of my scientific publications [here](https://scholar.google.com.au/citations?user=XMmsMV4AAAAJ&hl=en). -->
 
-## _Side projects_
+<!-- <br/> -->
+<!-- <br/> -->
 
-<br/>
-<br/>
+<!-- ## Projects -->
+
+<!-- <br/> -->
+<!-- <br/> -->

@@ -2,9 +2,20 @@ name: "BA-website"
 output_dir: "_site"
 navbar:
   title: "Brendan Robert E. Ansell"
-  # left:
-  #  - text: ""
-  #    href: index.html
+  left:
+   - text: "Home"
+     href: index.html
+   - text: "Research"
+     href: research.html
+   - text: "Teaching"
+     href: teaching.html
+   - text: "Projects"
+     menu:
+     - text: "Impact factor" 
+#     href: teaching.html
+     - text: "Gender pay gap" 
+       href: gender_disp.html
+
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<tst@email.com>
@@ -15,3 +26,7 @@ navbar:
 output:
   html_document:
     theme: flatly
+#  prettydoc::html_pretty:
+    #theme: paper
+#    theme: cayman
+#   css: style.css   
