@@ -15,6 +15,6 @@ output:
 site: distill::distill_website
 ---
  
-I am a computational biologist using genetic data to study diseases of the brain and the retina.  
+I am a computational biologist using genetic data to study diseases of the brain and the retina. 
 I work with a fantastic team at the [WEHI](https://www.wehi.edu.au/news/genetic-discovery-gives-insight-causes-eye-disease) in Melbourne, Australia.  
-I also like to play around with non-biological data, and teach R workshops.
+I also teach R workshops.

@@ -1,8 +1,12 @@
 ---
 title: "Research"
+#output:
+#  html_document:
+#    df_print: paged
 output:
-  html_document:
-    df_print: paged
+  distill::distill_article:
+    self_contained: false
+urlcolor: blue
 ---
 <br>
 My research is focused on understanding the brain and the retina in health and disease. I use computational and statistical techniques to draw insights from huge volumes of biological sequencing data.

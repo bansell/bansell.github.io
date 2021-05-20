@@ -1,0 +1,33 @@
+{
+  "articles": [
+    {
+      "path": "brendan.html",
+      "title": "Brendan Robert E. Ansell",
+      "author": [],
+      "contents": "\n\n          \n          \n          Brendan Robert E. Ansell\n          \n          \n          Research\n          Teaching\n          \n          \n          Projects\n           \n          ▾\n          \n          \n          Impact factor\n          Gender pay gap\n          \n          \n          ☰\n          \n          \n      \n        \n          \n            Brendan Robert E. Ansell\n          \n          \n            \n              I am a computational biologist using genetic data to study diseases of the brain and the retina. I work with a fantastic team at the WEHI in Melbourne, Australia.\n              I also teach R workshops.\n            \n            \n              I am a computational biologist using genetic data to study diseases of the brain and the retina. I work with a fantastic team at the WEHI in Melbourne, Australia.\n              I also teach R workshops.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-05-20T17:33:12+10:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Brendan Robert E. Ansell",
+      "author": [],
+      "contents": "\n\n          \n          \n          Brendan Robert E. Ansell\n          \n          \n          Research\n          Teaching\n          \n          \n          Projects\n           \n          ▾\n          \n          \n          Impact factor\n          Gender pay gap\n          \n          \n          ☰\n          \n          \n      \n        \n          \n            Brendan Robert E. Ansell\n          \n          \n            \n              I am a computational biologist using genetic data to study diseases of the brain and the retina.\n              I work with a fantastic team at the WEHI in Melbourne, Australia.\n              I also like to play around with non-biological data, and teach R workshops.\n            \n            \n              I am a computational biologist using genetic data to study diseases of the brain and the retina.\n              I work with a fantastic team at the WEHI in Melbourne, Australia.\n              I also like to play around with non-biological data, and teach R workshops.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-05-20T17:33:13+10:00"
+    },
+    {
+      "path": "research.html",
+      "title": "Research",
+      "author": [],
+      "contents": "\n My research is focused on understanding the brain and the retina in health and disease. I use computational and statistical techniques to draw insights from huge volumes of biological sequencing data.\n\nYou can find a list of my scientific publications here.\n\n\n\n",
+      "last_modified": "2021-05-20T17:33:14+10:00"
+    },
+    {
+      "path": "teaching.html",
+      "title": "Teaching",
+      "author": [],
+      "contents": "\n I teach workshops in R for data analysis, automation and visualization.\n\n\nMy recent book could help you to learn R.\n\n\n\n",
+      "last_modified": "2021-05-20T17:33:15+10:00"
+    }
+  ],
+  "collections": []
+}

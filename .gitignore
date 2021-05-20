@@ -3,4 +3,4 @@
 .RData
 .Ruserdata
 
-copy_projects.sh
+cp_projects.sh

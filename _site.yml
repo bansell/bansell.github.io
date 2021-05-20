@@ -1,10 +1,11 @@
-name: "BA-website"
+name: "distill_website"
+title: "Brendan Robert E. Ansell"
+description: |
+  brendan-website
+#output_dir: "docs"
 output_dir: "_site"
 navbar:
-  title: "Brendan Robert E. Ansell"
-  left:
-   - text: "Home"
-     href: index.html
+  right:
    - text: "Research"
      href: research.html
    - text: "Teaching"
@@ -15,18 +16,7 @@ navbar:
 #     href: teaching.html
      - text: "Gender pay gap" 
        href: gender_disp.html
+#       href: Gender_disp_blog.html
+output: distill::distill_article
+  
 
-  right: 
-    - icon: fa-envelope fa-lg
-      href: mailto:<tst@email.com>
-    - icon: fab fa-github
-      href: http://github.com/bansell/
-    # - icon: fa-twitter fa-lg
-    #   href: https://twitter.com/ansellbr3
-output:
-  html_document:
-    theme: flatly
-#  prettydoc::html_pretty:
-    #theme: paper
-#    theme: cayman
-#   css: style.css   
