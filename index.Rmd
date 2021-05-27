@@ -10,7 +10,7 @@ links:
   - label: GitHub
     url: "https://github.com/bansell"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:ansellbr@gmail.com"
 output:
   postcards::jolla
 site: distill::distill_website
