@@ -11,6 +11,7 @@ links:
     url: "https://github.com/bansell"
   - label: Email
     url: "mailto:email@email.com"
+google_analytics: "G-DP40D7TLFB"
 output:
   postcards::jolla
 site: distill::distill_website
