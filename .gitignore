@@ -3,6 +3,8 @@
 .RData
 .Ruserdata
 
-cp_projects.sh
-
 *.Rmd
+*.Rdata
+
+Rmd_sync_notes.readme
+cp_projects.sh
