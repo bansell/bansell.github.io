@@ -13,8 +13,7 @@ navbar:
    - text: "Projects"
      menu:
      - text: "Journal fees vs impact" 
-#       href: if_by_cost_post.html
-       href: if_by_cost.html
+       href: if_by_cost_post.html
      - text: "Gender pay gap" 
        href: gender_disp_ymllite.html
      - text: "Bullet trains" 
