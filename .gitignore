@@ -3,8 +3,9 @@
 .RData
 .Ruserdata
 
-*.Rmd
+
 *.Rdata
+project_charts/hokuriku_map_final.Rds
 
 Rmd_sync_notes.readme
 cp_projects.sh

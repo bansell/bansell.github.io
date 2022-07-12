@@ -2473,7 +2473,7 @@ the rvest library we read the table data from the timetable url.</p>
 <div class="sourceCode">
 <pre class="sourceCode r"><code class="sourceCode r"><span class='va'>l1</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/list.files.html'>list.files</a></span><span class='op'>(</span><span class='st'>'project_data/'</span>, pattern<span class='op'>=</span><span class='st'>'Rds'</span><span class='op'>)</span>
 
-<span class='kw'>if</span><span class='op'>(</span><span class='st'>'raw_rvest_data.tsv'</span> <span class='op'><a href='https://rdrr.io/r/base/match.html'>%in%</a></span> <span class='va'>l1</span><span class='op'>)</span><span class='op'>{</span>
+<span class='kw'>if</span><span class='op'>(</span><span class='st'>'raw_rvest_data.Rds'</span> <span class='op'><a href='https://rdrr.io/r/base/match.html'>%in%</a></span> <span class='va'>l1</span><span class='op'>)</span><span class='op'>{</span>
   <span class='va'>p1</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/readRDS.html'>readRDS</a></span><span class='op'>(</span><span class='st'>'project_data/raw_rvest_data.Rds'</span><span class='op'>)</span>
   <span class='fu'><a href='https://rdrr.io/r/base/print.html'>print</a></span><span class='op'>(</span><span class='st'>'Reading from local file to avoid "digital rot"!'</span><span class='op'>)</span>
   <span class='op'>}</span><span class='kw'>else</span><span class='op'>{</span>
@@ -2487,8 +2487,11 @@ the rvest library we read the table data from the timetable url.</p>
 <span class='fu'><a href='https://rdrr.io/r/base/readRDS.html'>saveRDS</a></span><span class='op'>(</span><span class='va'>p1</span>, file<span class='op'>=</span><span class='st'>'project_data/raw_rvest_data.Rds'</span><span class='op'>)</span>
 
 <span class='op'>}</span>
-
-<span class='fu'><a href='https://rdrr.io/r/base/print.html'>print</a></span><span class='op'>(</span><span class='va'>p1</span>,n<span class='op'>=</span><span class='fl'>20</span><span class='op'>)</span>
+</code></pre>
+</div>
+<pre><code>[1] &quot;Reading from local file to avoid \&quot;digital rot\&quot;!&quot;</code></pre>
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='fu'><a href='https://rdrr.io/r/base/print.html'>print</a></span><span class='op'>(</span><span class='va'>p1</span>,n<span class='op'>=</span><span class='fl'>20</span><span class='op'>)</span>
 </code></pre>
 </div>
 <pre><code># A tibble: 162 × 1
@@ -3124,7 +3127,7 @@ minute intervals:</p>
 <span class='va'>hokuriku_map_final</span>  
 
 <span class='fu'><a href='https://gganimate.com/reference/animate.html'>animate</a></span><span class='op'>(</span><span class='va'>hokuriku_map_final</span> <span class='op'>+</span>  <span class='fu'><a href='https://gganimate.com/reference/transition_reveal.html'>transition_reveal</a></span><span class='op'>(</span><span class='va'>time_fill</span> <span class='op'>)</span> <span class='op'>+</span> <span class='fu'><a href='https://gganimate.com/reference/ease_aes.html'>ease_aes</a></span><span class='op'>(</span><span class='st'>'cubic-in-out'</span><span class='op'>)</span> ,
-        height <span class='op'>=</span> <span class='fl'>4</span>, width <span class='op'>=</span> <span class='fl'>6</span>, units <span class='op'>=</span> <span class='st'>"in"</span>, res <span class='op'>=</span> <span class='fl'>150</span>, 
+        height <span class='op'>=</span> <span class='fl'>4</span>, width <span class='op'>=</span> <span class='fl'>6</span>, units <span class='op'>=</span> <span class='st'>"in"</span>, res <span class='op'>=</span> <span class='fl'>300</span>, 
         duration <span class='op'>=</span> <span class='fl'>35</span> , fps<span class='op'>=</span><span class='fl'>10</span><span class='op'>)</span>
 </code></pre>
 </div>
@@ -3136,7 +3139,7 @@ minute intervals:</p>
 <p>To save the animation as a gif:</p>
 <div class="layout-chunk" data-layout="l-body">
 <div class="sourceCode">
-<pre class="sourceCode r"><code class="sourceCode r"><span class='fu'>gganimate</span><span class='fu'>::</span><span class='fu'><a href='https://gganimate.com/reference/anim_save.html'>anim_save</a></span><span class='op'>(</span><span class='st'>'hokuriku_anim_elev.gif'</span><span class='op'>)</span>        
+<pre class="sourceCode r"><code class="sourceCode r"><span class='fu'>gganimate</span><span class='fu'>::</span><span class='fu'><a href='https://gganimate.com/reference/anim_save.html'>anim_save</a></span><span class='op'>(</span><span class='st'>'project_charts/hokuriku_anim_elev.gif'</span><span class='op'>)</span>        
 </code></pre>
 </div>
 </div>
@@ -3147,7 +3150,7 @@ src="https://www.jrpass.com/assets/landing_pages/shinkansen/train_lines-88906b26
 alt="Shinkansen lines" /></a></p>
 <p><a href="https://tinyurl.com/shinkansenmap"
 class="uri">https://tinyurl.com/shinkansenmap</a></p>
-<div class="sourceCode" id="cb10"><pre
+<div class="sourceCode" id="cb11"><pre
 class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
