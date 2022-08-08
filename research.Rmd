@@ -1,0 +1,17 @@
+---
+title: "Research"
+output:
+  distill::distill_article:
+    self_contained: false
+urlcolor: blue
+---
+
+<br> My research is focused on understanding the brain and the retina in health and disease. I use computational and statistical techniques to draw insights from huge volumes of biological sequencing data.
+
+<br>
+
+Shiny apps I have created for [single brain cell data](https://shiny.wehi.edu.au/ansell.b/sc_brain_browser/) display gene-expression information in an accessible, searchable format.
+
+<br>
+
+You can find a list of my scientific publications [here](https://scholar.google.com.au/citations?user=XMmsMV4AAAAJ&hl=en).

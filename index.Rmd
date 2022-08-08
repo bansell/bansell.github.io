@@ -1,0 +1,21 @@
+---
+title: "Brendan Robert E. Ansell"
+#image: "IMG_5093.png"
+image: "Brendan_Ansell_photo_sqr.png"
+links:
+  # - label: LinkedIn
+  #   url: "https://linkedin.com/"
+  # - label: Twitter
+  #   url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/bansell"
+  - label: Email
+    url: "mailto:ansellbr@gmail.com"
+output:
+  postcards::jolla
+site: distill::distill_website
+urlcolor: blue
+---
+ 
+As a computational biologist, working with a fantastic team at the [WEHI](https://www.wehi.edu.au/news/genetic-discovery-gives-insight-causes-eye-disease) in Melbourne, Australia, I use genetic data to study diseases of the brain and the retina.  
+I also like to play around with non-biological data (see Projects), and [teach R workshops](https://brendanansell.net/teaching.html).

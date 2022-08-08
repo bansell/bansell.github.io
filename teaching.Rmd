@@ -1,0 +1,15 @@
+---
+title: "Teaching"
+output:
+  distill::distill_article:
+    self_contained: false
+urlcolor: blue
+---
+
+<br>
+I am a [certified R instructor](https://education.rstudio.com/trainers/people/ansell+brendan/), and teach workshops for data analysis, automation and visualization.
+
+<!-- https://education.rstudio.com/trainers/people/brendan+ansell/  -->
+<br/>
+
+My recent [book](https://bookdown.org/ansellbr/WEHI_tidyR_course_book/) is a complete beginner's introduction to the user-friendly 'tidy' style of R.
